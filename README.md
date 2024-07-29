@@ -13,5 +13,4 @@
   1. Got TF for each word for all documents.
   2. Got IDF for each word.
   3. Multiplied TF * IDF
-4. Got Normalized TFIDF
-I used (sklearn) equations.
+4. Got Normalized TFIDF (used sklearn equations).
