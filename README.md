@@ -22,8 +22,8 @@ Extracted the unique words from the processed data.
 
 The final output is a feature vector for each document based on TF-IDF. The steps are as follows:
 
-1. Calculate Term Frequency (TF) for each word in all documents.
-2. Calculate Inverse Document Frequency (IDF) for each word.
-3. Compute TF * IDF for each word.
-4. Normalize the TF-IDF vectors (using sklearn equations).
+1. Calculated Term Frequency (TF) for each word in all documents.
+2. Calculated Inverse Document Frequency (IDF) for each word.
+3. Computed TF * IDF for each word.
+4. Normalized the TF-IDF vectors (using sklearn equations).
 
